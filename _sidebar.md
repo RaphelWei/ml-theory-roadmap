@@ -1,5 +1,8 @@
 - [Home](/)
-- Topics
-  - [Learning theory](learning-theory.md)
+
+- [Topics](#)
+  - [Learning Theory](learning-theory.md)
   - [Optimization](optimization.md)
-  - [Online learning](online-learning.md)
+  - [Online Learning](online-learning.md)
+
+- [General Resources](resources.md)

@@ -1,27 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>ML Theory Roadmap</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Docsify’s default “Vue” theme CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/docsify/themes/vue.css" />
-  <!-- Docsify script -->
-  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="A curated roadmap of ML theory papers and notes." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+
 </head>
 <body>
-  <!-- This is where Docsify will inject your markdown -->
-  <div id="app">Loading…</div>
+  <div id="app"></div>
 
   <script>
+    // Docsify config must come before the script include
     window.$docsify = {
       name: 'ML Theory Roadmap',
-      homepage: 'README.md',    // explicitly load your index.md
+      repo: 'RaphelWei/ml-theory-roadmap',
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       search: 'auto',
-      // repo: 'RaphelWei/ml-theory-roadmap'  // optional—omit until it’s working
-    };
+      // homepage: 'README.md', // not needed: default is README.md
+      routerMode: 'hash'         // safe for Netlify and local serve
+    }
   </script>
+
+  <!-- Docsify runtime -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>

@@ -1,13 +1,14 @@
 # ML Theory Roadmap
 
-A curated and evolving map of the theoretical ideas, papers, and structures that shape how I think about machine learning.
+This site is a hub for papers, notes, and resources I’ve read, am reading, or intend to return to — loosely grouped by topic, and occasionally annotated when I have something to say.
 
-This roadmap is part reading log, part reference, part notebook.
+Live site: [sihanwei.org/research](https://sihanwei.org/research)
 
 ---
 
-## Topics
+## 📚 Start Exploring
 
-- [Learning theory](learning-theory.md)
+- [Learning Theory](learning-theory.md)
 - [Optimization](optimization.md)
-- [Online learning](online-learning.md)
+- [Online Learning](online-learning.md)
+- [General Resources](resources.md)
