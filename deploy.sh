@@ -9,7 +9,7 @@ echo "📂 Ensuring everything is up-to-date..."
 # e.g., scripts that regenerate sidebar/index files
 
 echo "🚀 Deploying ML Theory Roadmap to Netlify..."
-netlify deploy --prod --dir=.
+netlify deploy --prod --dir=docs
 
 echo "✅ Netlify deployment complete."
 

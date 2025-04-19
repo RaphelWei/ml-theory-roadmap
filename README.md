@@ -11,15 +11,15 @@ This project started as a personal reading record, and grew into a structured re
 ## Structure
 
 - **Topics**  
-  - [Learning Theory](learning-theory.md)
-  - [Optimization](optimization.md)
-  - [Online Learning](online-learning.md)
-  - [ML for Combinatorial Optimization](ml4co.md)
+  - [Learning Theory](docs/learning-theory.md)
+  - [Optimization](docs/optimization.md)
+  - [Online Learning](docs/online-learning.md)
+  - [ML for Combinatorial Optimization](docs/ml4co.md)
 
 - **Resources**  
-  - [Books](books.md)
-  - [Courses](courses.md)
-  - [Blogs](blogs.md)
+  - [Books](docs/books.md)
+  - [Courses](docs/courses.md)
+  - [Blogs](docs/blogs.md)
 
 ## Contributing
 
