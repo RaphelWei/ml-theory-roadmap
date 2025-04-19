@@ -1,4 +1,5 @@
-- [Home](/)
+- Home
+  - [Homepage](/)
 
 - Topics
   - [Learning Theory](learning-theory.md)
@@ -6,7 +7,7 @@
   - [Online Learning](online-learning.md)
   - [ML for CO](ml4co.md)
 
-- Reference Materials
+- Resources
   - [Books](books.md)
   - [Courses](courses.md)
   - [Blogs](blogs.md)
