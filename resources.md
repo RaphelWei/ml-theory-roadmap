@@ -8,17 +8,12 @@ Resources that span multiple topics, or serve as foundational tools.
 
 ## Blogs
 
-- [Lilian Weng’s ML Theory Series](https://lilianweng.github.io/)
-- [Distill.pub](https://distill.pub/)
+- [Lil'log](https://lilianweng.github.io/)
+
 
 ## Mathematical Foundations
 
-- [Gilbert Strang - Linear Algebra (MIT OCW)](...)
-- [Essence of Calculus (3Blue1Brown)](...)
+
 
 ## Courses
 
-- [CS229 (Stanford)](...)  
-  Broad overview, mixes theory and applied.
-
-- [TTIC 31230 - Generalization Theory] by Nati Srebro (...)
