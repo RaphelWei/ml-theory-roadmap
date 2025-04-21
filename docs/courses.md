@@ -23,6 +23,9 @@
 
 ## Learning theory
 
++ **CS 281B/Stat 241B – Statistical Learning Theory** [[page]](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)  
+  UC Berkeley
+
 + **CS 540 – Deep Learning Theory** [[page]](https://mjt.cs.illinois.edu/courses/dlt-f22/)  
   UIUC 
 
@@ -38,7 +41,7 @@
 + **6.252/15.084 – Nonlinear Programming** [[page]](https://www.mit.edu/~gfarina/67220/)  
   MIT
 
-+ **ECE236C – Optimization Methods for Large-Scale Systems** [[page]](https://www.seas.ucla.edu/~vandenbe/ee236c.html)  
++ **ECE 236C – Optimization Methods for Large-Scale Systems** [[page]](https://www.seas.ucla.edu/~vandenbe/ee236c.html)  
   UCLA 
 
 + **ECE 580 – Optimization by Vector Space Methods** [[page]](https://maxim.ece.illinois.edu/teaching/fall21/lectures.html)  
@@ -50,3 +53,6 @@
 
 + **CSCI 659 – Introduction to Online Optimization/Learning** [[page]](https://haipeng-luo.net/courses/CSCI659/2022_fall/schedule.html)  
    USC
+
++ **CIS 6200 – Learning in Games (And Games in Learning)** [[page]](https://mlgametheory.com/)  
+  UPenn 
