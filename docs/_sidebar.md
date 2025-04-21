@@ -3,9 +3,10 @@
 
 - Topics
   - [Learning Theory](learning-theory.md)
+  - [ML for CO](ml4co.md)
   - [Optimization](optimization.md)
   - [Online Learning](online-learning.md)
-  - [ML for CO](ml4co.md)
+
 
 - Resources
   - [Books](books.md)

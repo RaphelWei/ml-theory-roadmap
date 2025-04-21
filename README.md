@@ -23,4 +23,4 @@ This project started as a personal reading record, and grew into a structured re
 
 ## Contributing
 
-Suggestions, links, and PRs are welcome — especially if you’ve read something useful or insightful. Feel free to open an issue or edit a section directly.
+This roadmap is still under construction, but if you’ve found something worth adding — or feel like helping me shape it — PRs are welcome.

@@ -12,7 +12,10 @@ Books that span multiple topics, or serve as foundational tools.
 + **Pattern Recognition and Machine Learning** [[book]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)  
   Christopher M. Bishop
 
++ **Boosting: Foundations and Algorithms** [[book]](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
+  Robert E. Schapire, Yoav Freund
 
+## Deep learning
 
 - **Deep Learning Theory** [[book]](https://mjt.cs.illinois.edu/dlt/index.pdf)   
     Matus Telgarsky
@@ -22,6 +25,8 @@ Books that span multiple topics, or serve as foundational tools.
 + **A Modern Introduction to Online Learning** [[book]](https://arxiv.org/abs/1912.13213)  
   Francesco Orabona
 
++ **Introduction to Online Convex Optimization** [[book]](https://arxiv.org/abs/1909.05207)  
+  Elad Hazan
 
 
 
