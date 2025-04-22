@@ -23,6 +23,9 @@
 
 ## Learning theory
 
++ **CMSC 35900 – Learning Theory** [[page]](https://home.ttic.edu/~tewari/LT_SP2008.html)  
+  TTIC 
+
 + **CS 281B/Stat 241B – Statistical Learning Theory** [[page]](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)  
   UC Berkeley
 
@@ -46,6 +49,9 @@
 
 + **ECE 580 – Optimization by Vector Space Methods** [[page]](https://maxim.ece.illinois.edu/teaching/fall21/lectures.html)  
   UIUC 
+
++ **ORIE 6300 – Mathematical Programming I** [[page]](https://people.orie.cornell.edu/dsd95/orie63002016.html)  
+  Cornell 
 
 ## Online learning and games
 + **17-740 – Algorithmic Foundations of Interactive Learning** [[page]](https://interactive-learning-algos.github.io/)  
