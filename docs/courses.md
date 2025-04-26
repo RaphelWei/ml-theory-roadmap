@@ -1,10 +1,10 @@
 # Courses
 
-## Math foundations
+## Math Foundations
 + **18.06 – Linear Algebra** [[page]](https://web.mit.edu/18.06/www/)  
   MIT
 
-## Machine learning
+## Machine Learning
 
 + **CS 229 – Machine Learning** [[page]](https://cs229.stanford.edu/)  
   Stanford
@@ -15,13 +15,13 @@
 + **10-601 – Machine Learning** [[page]](https://www.cs.cmu.edu/~tom/10601_fall2012/lectures.shtml)  
   CMU 
 
-## Reinforcement learning
+## Reinforcement Learning
 + **CS 6789 – Foundations of Reinforcement Learning** [[page]](https://wensun.github.io/CS6789_fall_2024.html)  
   Cornell 
 
 
 
-## Learning theory
+## Learning Theory
 
 + **CMSC 35900 – Learning Theory** [[page]](https://home.ttic.edu/~tewari/LT_SP2008.html)  
   TTIC 
@@ -53,7 +53,7 @@
 + **ORIE 6300 – Mathematical Programming I** [[page]](https://people.orie.cornell.edu/dsd95/orie63002016.html)  
   Cornell 
 
-## Online learning and games
+## Online Learning and Games
 + **17-740 – Algorithmic Foundations of Interactive Learning** [[page]](https://interactive-learning-algos.github.io/)  
   CMU
 

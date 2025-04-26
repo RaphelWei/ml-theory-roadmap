@@ -22,7 +22,7 @@ Books that span multiple topics, or serve as foundational tools.
   Kevin P. Murphy
 
 
-## Deep learning
+## Deep Learning
 
 + **Deep Learning** [[book]](https://www.deeplearningbook.org/)  
   Ian Goodfellow, Yoshua Bengio, Aaron Courville
@@ -31,7 +31,7 @@ Books that span multiple topics, or serve as foundational tools.
   Matus Telgarsky
 
 
-## Online learning and games
+## Online Learning and Games
 + **A Modern Introduction to Online Learning** [[book]](https://arxiv.org/abs/1912.13213)  
   Francesco Orabona
 

@@ -1,10 +1,14 @@
 # Learning theory
 
+## Statistical Learning Theory
+
+## Deep Learning Theory
++ **Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks** *(ICLR, 2020)* [[paper]](https://arxiv.org/abs/1909.12292)  
+  Ziwei Ji, Matus Telgarsky
 
 
 
-
-## Multi-distribution learning
+## Multi-distribution Learning
 + **On-Demand Sampling: Learning Optimally from Multiple Distributions** *(NeurIPS, 2022)* [[paper]](https://arxiv.org/abs/2210.12529) [[code]](https://github.com/ericzhao28/multidistributionlearning) [[notes]](https://github.com/RaphelWei/ml_reading/issues/1)   
   Nika Haghtalab, Michael I. Jordan, Eric Zhao
 
