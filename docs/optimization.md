@@ -19,3 +19,8 @@ This section focuses on the theory and behavior of optimization algorithms used 
 ## Optimization for Deep Learning
 
 (See also [Deep Learning Theory](learning-theory.md#deep-learning-theory))
+
+
+## Distributionally Robust Optimization
++ **Coping with Label Shift via Distributionally Robust Optimisation** *(ICLR, 2021)* [[paper]](https://arxiv.org/abs/2010.12230) [[code]](https://github.com/ShahryarBQ/DRO)  
+  Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra
