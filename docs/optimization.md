@@ -22,5 +22,16 @@ This section focuses on the theory and behavior of optimization algorithms used 
 
 
 ## Distributionally Robust Optimization
+
++ **Distributionally Robust Optimization with Bias and Variance Reduction** *(ICLR, 2024)* [[paper]](https://arxiv.org/abs/2310.13863)  
+  Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui
+
++ **Stochastic Approximation Approaches to Group Distributionally Robust Optimization and Beyond** *(NeurIPS, 2023)* [[paper]](https://arxiv.org/abs/2302.09267)  
+  Lijun Zhang, Haomin Bai, Peng Zhao, Tianbao Yang, Zhi-Hua Zhou
+
+
 + **Coping with Label Shift via Distributionally Robust Optimisation** *(ICLR, 2021)* [[paper]](https://arxiv.org/abs/2010.12230) [[code]](https://github.com/ShahryarBQ/DRO)  
   Jingzhao Zhang, Aditya Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra
+
++ **Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization** *(ICLR, 2020)* [[paper]](https://arxiv.org/abs/1911.08731) [[code]](https://github.com/kohpangwei/group_DRO)  
+  Shiori Sagawa, Pang Wei Koh, Tatsunori B. Hashimoto, Percy Liang
