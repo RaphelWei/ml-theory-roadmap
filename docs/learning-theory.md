@@ -38,4 +38,3 @@ Learning for VC Classes** *(COLT, 2023)* [[paper]](https://arxiv.org/abs/2307.12
 
 + **Collaborative PAC Learning** *(NeurIPS, 2017)* [[paper]](https://papers.nips.cc/paper_files/paper/2017/hash/186a157b2992e7daed3677ce8e9fe40f-Abstract.html)  
   Avrim Blum, Nika Haghtalab, Ariel D Procaccia, Mingda Qiao
-

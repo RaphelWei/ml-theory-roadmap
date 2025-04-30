@@ -10,3 +10,8 @@
 
 + **Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon** *(EJOR, 2021)* [[paper]](https://arxiv.org/abs/1811.06128)  
   Yoshua Bengio, Andrea Lodi, Antoine Prouvost
+
+## Stochastic Combinatorial Optimization
+
++ **USCO-Solver: Solving Undetermined Stochastic Combinatorial Optimization Problems** *(NeurIPS, 2021)* [[paper]](https://arxiv.org/abs/2107.07508) [[code]](https://github.com/cdslabamotong/USCO-Solver)  
+  Guangmo Tong
