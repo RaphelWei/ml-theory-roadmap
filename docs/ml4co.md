@@ -15,3 +15,11 @@
 
 + **USCO-Solver: Solving Undetermined Stochastic Combinatorial Optimization Problems** *(NeurIPS, 2021)* [[paper]](https://arxiv.org/abs/2107.07508) [[code]](https://github.com/cdslabamotong/USCO-Solver)  
   Guangmo Tong
+
++ **Online Decision-Making in General Combinatorial Spaces** *(NeurIPS, 2014)* [[paper]](https://papers.nips.cc/paper_files/paper/2014/hash/d58255c6c264137b64a22eb6a65e691b-Abstract.html)  
+  Arun Rajkumar, Shivani Agarwal
+
+## Neural Combinatorial Optimization
+
++ **Neural Combinatorial Optimization with Reinforcement Learning** *(ICLR, 2017)* [[paper]](https://arxiv.org/abs/1611.09940) [[code]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)  
+  Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio
