@@ -39,7 +39,13 @@
       loadSidebar: true,
       subMaxLevel: 2,
       search: 'auto',
-      homepage: 'index.md'
+      homepage: 'index.md',
+      seo: {
+      title: 'ML Theory Roadmap',
+      description: 'A structured roadmap for machine learning theory: optimization, learning theory, online learning, and combinatorial optimization.',
+      type: 'article',
+      site_url: 'https://sihanwei.org/ml-theory/'
+      }
     }
   </script>
 
@@ -49,13 +55,6 @@
 
   <!-- SEO Plugin -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-seo-plugin@1.0.3/dist/docsify-seo.min.js"></script>
-  <script>
-    window.$docsify.seo = {
-      title: 'ML Theory Roadmap',
-      description: 'A structured roadmap for machine learning theory: optimization, learning theory, online learning, and combinatorial optimization.',
-      type: 'article',
-      site_url: 'https://sihanwei.org/ml-theory/'
-    };
-  </script>
+  
 </body>
 </html>
