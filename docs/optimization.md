@@ -1,6 +1,6 @@
 # Optimization
 
-This section focuses on the theory and behavior of optimization algorithms used in machine learning, with an emphasis on convergence, complexity, and the interplay between dynamics and structure.
+Focuses on the theory and behavior of optimization algorithms used in machine learning, with an emphasis on convergence, complexity, and the interplay between dynamics and structure.
 
 ## Surveys and Tutorials
 + **A Survey of Optimization Methods for Training DL Models: Theoretical Perspective on Convergence and Generalization** *(arXiv, 2025)* [[paper]](https://arxiv.org/abs/2501.14458)  

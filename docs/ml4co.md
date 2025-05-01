@@ -1,5 +1,7 @@
 # ML for Combinatorial Optimization
 
+Covers learning-based approaches for combinatorial optimization, including imitation learning, policy optimization, and neural combinatorial solvers.
+
 ## Surveys and Tutorials
 
 + **Learning to optimize: A tutorial for continuous and mixed-integer optimization** *(Science China Mathematics, 2024)* [[paper]](https://arxiv.org/abs/2405.15251)  

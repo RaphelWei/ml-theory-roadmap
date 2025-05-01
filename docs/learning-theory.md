@@ -1,11 +1,17 @@
 # Learning theory
 
+Covers classical and deep learning theory, from generalization bounds to optimization-driven implicit bias.
+
 ## Statistical Learning Theory
+
+This section covers classic generalization theory under the i.i.d. assumption, including PAC learning, VC dimension, Rademacher complexity, and algorithmic stability.
 
 + **Beyond Lipschitz: Sharp Generalization and Excess Risk Bounds for Full-Batch GD** *(ICLR, 2023)* [[paper]](https://arxiv.org/abs/2204.12446)  
   Konstantinos E. Nikolakakis, Farzin Haddadpour, Amin Karbasi, Dionysios S. Kalogerias
 
 ## Deep Learning Theory
+
+This section focuses on the theoretical foundations of deep neural networks, including optimization, generalization, and approximation.
 
 + **Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks** *(ICLR, 2020)* [[paper]](https://arxiv.org/abs/1909.12292)  
   Ziwei Ji, Matus Telgarsky
