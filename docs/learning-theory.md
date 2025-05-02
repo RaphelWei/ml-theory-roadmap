@@ -18,7 +18,7 @@ This section focuses on the theoretical foundations of deep neural networks, inc
 
 ## Multi-distribution Learning
 
-(Also known as "Collaborative PAC Learning", "Group Distributionally Robust optimization". See also GDRO in [Distributionally Robust Optimization](optimization.md#distributionally-robust-optimization))
+(Also known as "Collaborative PAC Learning". Closely related to "Group Distributionally Robust optimization". See also GDRO in [Distributionally Robust Optimization](optimization.md#distributionally-robust-optimization))
 
 + **Derandomizing Multi-Distribution Learning** *(NeurIPS, 2024)* [[paper]](https://arxiv.org/abs/2409.17567)  
   Kasper Green Larsen, Omar Montasser, Nikita Zhivotovskiy
