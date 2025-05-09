@@ -13,6 +13,9 @@ Focuses on the theory and behavior of optimization algorithms used in machine le
 
 ## Stochastic Optimization
 
++ **Stochastic Gradient Descent-Ascent: Unified Theory and New Efficient Methods** *(AISTATS, 2023)* [[paper]](https://arxiv.org/abs/2202.07262) [[code]](https://github.com/hugobb/sgda)  
+  Aleksandr Beznosikov, Eduard Gorbunov, Hugo Berard, Nicolas Loizou
+
 + **SGD: General Analysis and Improved Rates** *(ICML, 2019)* [[paper]](https://arxiv.org/abs/1901.09401)  
   Robert Mansel Gower, Nicolas Loizou, Xun Qian, Alibek Sailanbayev, Egor Shulgin, Peter Richtarik
 
