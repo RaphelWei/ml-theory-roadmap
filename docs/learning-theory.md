@@ -9,6 +9,12 @@ This section covers classic generalization theory under the i.i.d. assumption, i
 + **Beyond Lipschitz: Sharp Generalization and Excess Risk Bounds for Full-Batch GD** *(ICLR, 2023)* [[paper]](https://arxiv.org/abs/2204.12446)  
   Konstantinos E. Nikolakakis, Farzin Haddadpour, Amin Karbasi, Dionysios S. Kalogerias
 
++ **Benign overfitting in ridge regression** *(JMLR, 2023)* [[paper]](https://arxiv.org/abs/2009.14286)  
+  Alexander Tsigler, Peter L Bartlett
+
++ **Benign Overfitting in Linear Regression** *(PNAS, 2020)* [[paper]](https://arxiv.org/abs/1906.11300)  
+  Peter L. Bartlett, Philip M. Long, Gábor Lugosi, Alexander Tsigler
+
 ## Deep Learning Theory
 
 This section focuses on the theoretical foundations of deep neural networks, including optimization, generalization, and approximation.
