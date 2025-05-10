@@ -22,6 +22,9 @@ This section focuses on the theoretical foundations of deep neural networks, inc
 + **Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks** *(ICLR, 2020)* [[paper]](https://arxiv.org/abs/1909.12292)  
   Ziwei Ji, Matus Telgarsky
 
++ **Exploring Generalization in Deep Learning** *(NeurIPS, 2017)* [[paper]](https://arxiv.org/abs/1706.08947) [[code]](https://github.com/bneyshabur/generalization-bounds)  
+  Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro
+
 ## Multi-distribution Learning
 
 (Also known as "Collaborative PAC Learning". Closely related to "Group Distributionally Robust optimization". See also GDRO in [Distributionally Robust Optimization](optimization.md#distributionally-robust-optimization))
