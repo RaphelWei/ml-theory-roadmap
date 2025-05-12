@@ -19,7 +19,7 @@ Focuses on the theory and behavior of optimization algorithms used in machine le
 + **SGD: General Analysis and Improved Rates** *(ICML, 2019)* [[paper]](https://arxiv.org/abs/1901.09401)  
   Robert Mansel Gower, Nicolas Loizou, Xun Qian, Alibek Sailanbayev, Egor Shulgin, Peter Richtarik
 
-+ **Adam: A Method for Stochastic Optimization** *(ICLR, 2015)* [[paper]](https://arxiv.org/abs/1412.6980)  
++ **Adam: A Method for Stochastic Optimization** *(ICLR, 2015)* [[paper]](https://arxiv.org/abs/1412.6980) [[code]](https://nn.labml.ai/optimizers/adam.html)  
   Diederik P. Kingma, Jimmy Ba
 
 ## Optimization for Deep Learning
