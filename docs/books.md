@@ -41,3 +41,8 @@ Books that span multiple topics, or serve as foundational tools.
 + **Boosting: Foundations and Algorithms** [[book]](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
   Robert E. Schapire, Yoav Freund
 
+## Graph Theory
+
++ **An Introduction to Graph Theory** [[book]](https://arxiv.org/abs/2308.04512)  
+  Darij Grinberg
+

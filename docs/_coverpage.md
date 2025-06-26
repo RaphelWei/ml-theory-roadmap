@@ -5,6 +5,7 @@
 > A structured roadmap for machine learning theory
 
 - Learning Theory  
+- Hypergraph Learning
 - Optimization  
 - Online Learning  
 - ML for Combinatorial Optimization
