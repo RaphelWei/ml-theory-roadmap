@@ -2,6 +2,16 @@
 
 Covers classical and deep learning theory, from generalization bounds to optimization-driven implicit bias.
 
+## Tutorials and Monographs
+
++ **Generalization Bounds: Perspectives from Information Theory and PAC-Bayes** *(Found. Trends Mach. Learn., 2025)* [[paper]](https://arxiv.org/abs/2309.04381)  
+  Fredrik Hellström, Giuseppe Durisi, Benjamin Guedj, Maxim Raginsky
+
++ **User-friendly introduction to PAC-Bayes bounds** *(Found. Trends Mach. Learn., 2024)* [[paper]](https://arxiv.org/abs/2110.11216)  
+  Pierre Alquier
+
+
+
 ## Statistical Learning Theory
 
 This section covers classic generalization theory under the i.i.d. assumption, including PAC learning, VC dimension, Rademacher complexity, and algorithmic stability.
@@ -14,6 +24,9 @@ This section covers classic generalization theory under the i.i.d. assumption, i
 
 + **Benign Overfitting in Linear Regression** *(PNAS, 2020)* [[paper]](https://arxiv.org/abs/1906.11300)  
   Peter L. Bartlett, Philip M. Long, Gábor Lugosi, Alexander Tsigler
+
+
+
 
 ## Deep Learning Theory
 

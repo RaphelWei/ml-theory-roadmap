@@ -11,4 +11,4 @@
 - 📚 Resources
   - [Books](books.md)
   - [Courses](courses.md)
-  - [Blogs](blogs.md)
+  - [General Resources](blogs.md)
