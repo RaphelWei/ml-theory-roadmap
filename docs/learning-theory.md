@@ -32,8 +32,18 @@ This section covers classic generalization theory under the i.i.d. assumption, i
 
 This section focuses on the theoretical foundations of deep neural networks, including optimization, generalization, and approximation.
 
++ **Deep Learning is Not So Mysterious or Different** *(ICML, 2025)* [[paper]](https://arxiv.org/abs/2503.02113)  
+  Andrew Gordon Wilson
+
 + **Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks** *(ICLR, 2020)* [[paper]](https://arxiv.org/abs/1909.12292)  
   Ziwei Ji, Matus Telgarsky
+
++ **A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks** *(ICLR, 2018)* [[paper]](https://arxiv.org/abs/1707.09564)  
+  Behnam Neyshabur, Srinadh Bhojanapalli, Nathan Srebro
+
++ **Spectrally-normalized margin bounds for neural networks** *(NeurIPS, 2017)* [[paper]](https://arxiv.org/abs/1706.08498)  
+  Peter Bartlett, Dylan J. Foster, Matus Telgarsky
+
 
 + **Exploring Generalization in Deep Learning** *(NeurIPS, 2017)* [[paper]](https://arxiv.org/abs/1706.08947) [[code]](https://github.com/bneyshabur/generalization-bounds)  
   Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro
