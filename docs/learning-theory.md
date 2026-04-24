@@ -32,6 +32,10 @@ This section covers classic generalization theory under the i.i.d. assumption, i
 
 This section focuses on the theoretical foundations of deep neural networks, including optimization, generalization, and approximation.
 
++ **Generalization at the Edge of Stability** *(arXiv, 2026)* [[paper]](https://arxiv.org/abs/2604.19740)  
+  Mario Tuci, Caner Korkmaz, Umut Şimşekli, Tolga Birdal
+
+
 + **Deep Learning is Not So Mysterious or Different** *(ICML, 2025)* [[paper]](https://arxiv.org/abs/2503.02113)  
   Andrew Gordon Wilson
 
